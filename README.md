@@ -11,6 +11,8 @@ polynomial time solution based on greedy method.
  
 Programming Language: Python
 
+This project was developed for course "Foundation of Algorithms" in Spring 2019
+
 Steps to execute the problem
 	1. Run the program.
 		For windows: Run on any python software.
