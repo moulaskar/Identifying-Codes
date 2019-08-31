@@ -1,6 +1,18 @@
 # Identifying-Codes
-1. Download and save all files in one location.
-	2. Run the program.
+
+Paper referred: “Budget Constrained Relay Node Placement Problem for Maximal                    
+“Connectedness”, Anisha Mazumder, Chenyang Zhou, Arun Das, Arunabha Sen. 
+ 
+The paper proposes a new way of robust location detection using identifying codes (i.e                            
+uniquely identifying locations based on a unique ID for each location) and also minimizing the                              
+number of sensors needed to do so. The problem of minimizing the number of sensors required                                
+to optimally, uniquely locate all the location is a NP-complete problem and the paper provides a                                
+polynomial time solution based on greedy method. 
+ 
+Programming Language: Python
+
+Steps to execute the problem
+	1. Run the program.
 		For windows: Run on any python software.
 		For ubuntu: enter python filename.py on terminal
-      	3. The output is saved as .png file 
+      	2. The output is saved as .png file 
